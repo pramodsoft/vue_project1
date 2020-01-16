@@ -1,0 +1,5 @@
+npm run serve
+used to run development server
+
+npm run build
+used to build project
